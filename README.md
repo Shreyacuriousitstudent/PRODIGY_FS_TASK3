@@ -82,3 +82,6 @@ Let me know if you'd like help creating:
 - A deployable version (like on Render or Railway)
 
 Happy coding! 🛒✨
+
+
+This project is licensed under the MIT License.
